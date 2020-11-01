@@ -47,7 +47,7 @@
    *
   /*****************  $Medium devices (Desktops) <= 1024px  ******************/
   @media handheld, only screen and (max-width: 1024px) {
-    .numbers{
+    /*.numbers{
       background-image: url("../img/video-bg.jpg");
       background-attachment: scroll;
       background-size: cover;
@@ -59,7 +59,7 @@
     .mb_YTVPlayer{
       display: none!important;
     }
-  }
+  }*/
   /**
    *
    *
