@@ -1,0 +1,32 @@
+
+@import './base/base';
+@import './base/settings';
+
+// Components
+@import './components/about/about';
+@import './components/about/teamBox';
+@import './components/about/teamInfo';
+@import './components/blog/blog';
+@import './components/blog/blogBox';
+@import './components/contact-modal/modal';
+@import './components/contact/contact';
+@import './components/contact/contactInfo/contactInfo';
+@import './components/contact/contactInfo/contactInfoBox';
+@import './components/contact/contactInfo/contactSocial';
+@import './components/footer/footer';
+@import './components/hero/hero';
+@import './components/header/header';
+@import './components/navbar/navbar';
+@import './components/skills/skillBox';
+@import './components/portfolio/portfolio';
+@import './components/ui-components/button/button';
+@import './components/ui-components/projectBox/projectBox';
+@import './components/ui-components/title/title';
+@import './components/card/card';
+
+
+//Queries
+@import './base/mediaqueries';
+@import './components/skills/skills';
+
+

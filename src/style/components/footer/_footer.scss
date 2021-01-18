@@ -1,0 +1,49 @@
+
+.footer {
+  background-color: $black-color;
+  height: 150px;
+  display: flex;
+  justify-content: space-around;
+  width: 100vw;
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    margin: 0px!important;
+
+    .footer-copyright, .footer-copyright2 {
+      color: $white-color;
+      font-size: 1.1rem;
+      margin-left: 30px;
+      align-items:flex-end;
+    }
+    img {
+      margin: 20px;
+    }
+  }
+
+  .back-to-top {
+    float: right;
+    cursor: pointer;
+    border: 
+    img {
+      margin-left: 0px;
+    }
+    border-radius: 50%;
+  }
+
+  .back-to-top:hover {
+    p {
+      color: $main-color;
+    }
+  }
+}
+
+button.scroll-up  {
+  padding: 15px!important;
+}
+
+button.scroll-up:hover {
+  color: $light-color;
+}
+

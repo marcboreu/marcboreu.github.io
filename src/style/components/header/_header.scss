@@ -1,0 +1,31 @@
+.header-container {
+    // background-image: url("../../../assets/header/background.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: gray;
+    height: 90vh;
+    color: white;
+    z-index: 10;
+    overflow: hidden;
+}
+
+.header-items {
+    text-align: center;
+    padding-top: 35vh;
+
+}
+.title-header, .subtitle-header {
+    display: flex;
+    justify-content: center;
+}
+// .title-reveal-h1 {
+//     display: flex;
+//     justify-content: center;
+// }
+
+.buttons-header {
+    padding-top: 5vh;
+    display: flex;
+    justify-content: space-evenly;
+}
